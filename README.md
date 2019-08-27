@@ -1,2 +1,2 @@
-# HabboICU Emulator
- HabboICU Emulator v1.0.6
+# bobba_server
+Monolithic bobba server written in Java
